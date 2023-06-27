@@ -1,0 +1,260 @@
+campaign = 
+{
+    ["picture_EN"] = "REDFLAG.jpg",
+    ["directory"] = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DCSWorld\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\",
+    ["startStage"] = 1,
+    ["picture"] = "REDFLAG.jpg",
+    ["description"] = "A series of advanced training missions based on Red Flag ranges and rules.\
+\
+Features:\
+- custom ATC with working ATIS\
+- custom Voice Overs\
+- populated airbases\
+- simulated Red Flag rules\
+- custom Misson Data Card on built-in kneeboard\
+\
+Custom ATC is divided in steps where you simply pass through them by pressing SPACE everytime you got message to do it. \
+\
+after startup -> Grab ATIS and contact Ground Control\
+hold short runway 3R -> contact Tower\
+after takeoff -> contact Departure\
+when you arrive at the last waypoint -> Grab ATIS and select the right information in the F10 menu to contact Approach\
+around 5nm to Nellis AFB -> contact Tower\
+After landing -> contact Ground for parking\
+Emergency ->this will show up after departure clearance, you can select it anytime with F10 menu , if you are in trouble Nellis ATC will let you land immediately, firetrucks will wait you at the end of the runway.\
+\
+",
+    ["description_EN"] = "A series of advanced training missions based on Red Flag ranges and rules.\
+\
+Features:\
+- custom ATC with working ATIS\
+- custom Voice Overs\
+- populated airbases\
+- simulated Red Flag rules\
+- custom Misson Data Card on built-in kneeboard\
+\
+Custom ATC is divided in steps where you simply pass through them by pressing SPACE everytime you got message to do it. \
+\
+after startup -> Grab ATIS and contact Ground Control\
+hold short runway 3R -> contact Tower\
+after takeoff -> contact Departure\
+when you arrive at the last waypoint -> Grab ATIS and select the right information in the F10 menu to contact Approach\
+around 5nm to Nellis AFB -> contact Tower\
+After landing -> contact Ground for parking\
+Emergency ->this will show up after departure clearance, you can select it anytime with F10 menu , if you are in trouble Nellis ATC will let you land immediately, firetrucks will wait you at the end of the runway.\
+\
+",
+    ["stages"] = 
+    {
+        [1] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Red Flag Training - Day 0 - Nellis Welcome!.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DCSWorld\\Mods\\aircraft\\FA-18C\\Missions\\Single\\Red Flag Training - Day 0 - Nellis Welcome!.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Red Flag Training - Day 1 - NTTR and Formation Flying .miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DCSWorld\\Mods\\aircraft\\FA-18C\\Missions\\Single\\Red Flag Training - Day 1 - NTTR and Formation Flying .miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Red Flag Training - Day 1 - Night Formation Flying.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DCSWorld\\Mods\\aircraft\\FA-18C\\Missions\\Single\\Red Flag Training - Day 1 - Night Formation Flying.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Red Flag Training - Day 2 - AAR and BFM Training.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DCSWorld\\Mods\\aircraft\\FA-18C\\Missions\\Single\\Red Flag Training - Day 2 - AAR and BFM Training.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Red Flag Training - Day 2 - ACM Training.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DCSWorld\\Mods\\aircraft\\FA-18C\\Missions\\Single\\Red Flag Training - Day 2 - ACM Training.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Red Flag Training - Day 2 - ACM Training  - AGGRESSOR.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DCSWorld\\Mods\\aircraft\\FA-18C\\Missions\\Single\\Red Flag Training - Day 2 - ACM Training  - AGGRESSOR.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Red Flag Training - Day 2 - BVR Training.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DCSWorld\\Mods\\aircraft\\FA-18C\\Missions\\Single\\Red Flag Training - Day 2 - BVR Training.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Red Flag Training - Day 3 - Air-Ground Range Training.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DCSWorld\\Mods\\aircraft\\FA-18C\\Missions\\Single\\Red Flag Training - Day 3 - Air-Ground Range Training.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Red Flag Training - Day 3 - Pop-up Attack Training.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DCSWorld\\Mods\\aircraft\\FA-18C\\Missions\\Single\\Red Flag Training - Day 3 - Pop-up Attack Training.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Red Flag Training - Day 3 - JTAC Training.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DCSWorld\\Mods\\aircraft\\FA-18C\\Missions\\Single\\Red Flag Training - Day 3 - JTAC Training.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [11] = 
+        {
+            ["name"] = "Stage 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Red Flag Training - Day 3 - SEAD Training.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DCSWorld\\Mods\\aircraft\\FA-18C\\Missions\\Single\\Red Flag Training - Day 3 - SEAD Training.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+    }, -- end of ["stages"]
+    ["pictureSuccess_EN"] = "REDFLAG.jpg",
+    ["pictureFailed"] = "REDFLAG.jpg",
+    ["name"] = "Red Flag Training Missions F/A-18C",
+    ["pictureSuccess"] = "REDFLAG.jpg",
+    ["name_EN"] = "Red Flag Training Missions F/A-18C",
+    ["version"] = 1,
+    ["pictureFailed_EN"] = "REDFLAG.jpg",
+    ["fullPath"] = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\DCSWorld\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\Red Flag Training Missions.cmp",
+    ["necessaryUnits"] = 
+    {
+        ["FA-18C_hornet"] = "FA-18C_hornet",
+    }, -- end of ["necessaryUnits"]
+} -- end of campaign

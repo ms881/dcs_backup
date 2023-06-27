@@ -1,0 +1,24 @@
+Bold Cheetah - Changelog
+
+1.073-	Changed Mission 12 Start / Finish
+
+1.072- 	Adjusted wind direction and speed mission 12.
+
+1.071- 	Fixed double menu entry mission 5, 6.  Fixed Mission 10 to feature CVN-74.
+
+1.07 -	Swapped Carrier to CVN-74 USS John C. Stennis.  Now Supercarrier non-owners can play Bold Cheetah whilst ownwers still have the same experience.  
+	Changed Recovery Tanker / Rescue Helo method (MOOSE to ME).
+
+1.06 - 	Adjusted label settings mission 9 an 10.
+
+1.05 -	Adjusted radio triggers mission 9
+
+1.04 - 	Fixed Typo mission kneeboard card in mission 4.  Push time is :30
+
+1.03 - 	Updated Mission 2 to fix script error in radio message (if Uzi 12 gets killed, missed a " in the script.  Fixed now.
+
+1.02 -	Updated Mission 3 to help prevent accidental team kill
+	Updated Mission 3 - changed on screen text message
+	Added Bold_Cheetah_changelog.txt to zip file
+
+1.01 - 	Updated Mission 1 incorrect victoria condiditon - fixed

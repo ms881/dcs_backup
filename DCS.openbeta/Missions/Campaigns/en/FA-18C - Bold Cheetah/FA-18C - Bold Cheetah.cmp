@@ -1,0 +1,287 @@
+campaign = 
+{
+    ["picture_EN"] = "cpg.jpg",
+    ["directory"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\",
+    ["description"] = "SITUATION UPDATE JUNE 1, 2013 \
+\
+The USS Abraham Lincoln and its task group have taken up station in the Gulf of Oman, and will soon commence air operations in support of the invocation of Article 5.  The objective of our presence is to deter the Iranians from any military expansion in the region, and to show our allies that we are here for them. \
+\
+Our goal is to provide support to the UAE governments in fighting the growing insurgency on the peninsula.  US, British, Canadian and French special forces are now on the ground, helping advise the UAE military in counter insurgency strategy.  The air wing will provide assistance to this effort, including Close Air Support over and on UAE territory, and air defense of UAE and Saudi Arabian airspace. \
+\
+At this time, we will not be commencing any military action against any regular Iranian military force, nor will we violate the 12-mile Iranian territorial waters or 12-mile airspace boundary.  However, we will be ready to strike, if and when called upon. \
+It is hoped that once the regime in Tehran gets a taste of our presence in the region, cooler heads will prevail and they will de-escalate. \
+",
+    ["name_EN"] = "FA-18C - Bold Cheetah",
+    ["pictureSuccess_EN"] = "campaign successful.jpg",
+    ["description_EN"] = "SITUATION UPDATE JUNE 1, 2013 \
+\
+The USS Abraham Lincoln and its task group have taken up station in the Gulf of Oman, and will soon commence air operations in support of the invocation of Article 5.  The objective of our presence is to deter the Iranians from any military expansion in the region, and to show our allies that we are here for them. \
+\
+Our goal is to provide support to the UAE governments in fighting the growing insurgency on the peninsula.  US, British, Canadian and French special forces are now on the ground, helping advise the UAE military in counter insurgency strategy.  The air wing will provide assistance to this effort, including Close Air Support over and on UAE territory, and air defense of UAE and Saudi Arabian airspace. \
+\
+At this time, we will not be commencing any military action against any regular Iranian military force, nor will we violate the 12-mile Iranian territorial waters or 12-mile airspace boundary.  However, we will be ready to strike, if and when called upon. \
+It is hoped that once the regime in Tehran gets a taste of our presence in the region, cooler heads will prevail and they will de-escalate. \
+",
+    ["pictureSuccess"] = "campaign successful.jpg",
+    ["necessaryUnits"] = 
+    {
+        ["FA-18C_hornet"] = "FA-18C_hornet",
+    }, -- end of ["necessaryUnits"]
+    ["pictureFailed"] = "campaign failure.jpg",
+    ["name"] = "FA-18C - Bold Cheetah",
+    ["stages"] = 
+    {
+        [13] = 
+        {
+            ["name"] = "Stage 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Bold Cheetah Mission 13 - Alpha Strike_Cold Start.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\Bold Cheetah Mission 13 - Alpha Strike_Cold Start.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Bold Cheetah Mission 07 - Old and New_Cold Start.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\Bold Cheetah Mission 07 - Old and New_Cold Start.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Bold Cheetah Mission 01 - A Show of Force_Cold Start.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\Bold Cheetah Mission 01 - A Show of Force_Cold Start.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Bold Cheetah Mission 02 - CAS for Badger_Cold Start.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\Bold Cheetah Mission 02 - CAS for Badger_Cold Start.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Bold Cheetah Mission 04 - Retribution_Cold Start.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\Bold Cheetah Mission 04 - Retribution_Cold Start.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Bold Cheetah Mission 08 - Transit_Cold Start.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\Bold Cheetah Mission 08 - Transit_Cold Start.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Bold Cheetah Mission 09 - Danger Close_Cold Start.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\Bold Cheetah Mission 09 - Danger Close_Cold Start.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Bold Cheetah Mission 05 - Rescue_Cold Start.miz",
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\Bold Cheetah Mission 05 - Rescue_Cold Start.miz",
+                    ["skipScore"] = 100,
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Bold Cheetah Mission 10 - Combat Air Patrol_Cold Start.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\Bold Cheetah Mission 10 - Combat Air Patrol_Cold Start.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [11] = 
+        {
+            ["name"] = "Stage 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Bold Cheetah Mission 11 - An Old Friend_Cold Start.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\Bold Cheetah Mission 11 - An Old Friend_Cold Start.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Bold Cheetah Mission 06 - Iron Hand_Cold Start.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\Bold Cheetah Mission 06 - Iron Hand_Cold Start.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Stage 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Bold Cheetah MIssion 12 - Action Reaction_Cold Start.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\Bold Cheetah MIssion 12 - Action Reaction_Cold Start.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Bold Cheetah Mission 03 - Escalation_Cold Start.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\Bold Cheetah Mission 03 - Escalation_Cold Start.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+    }, -- end of ["stages"]
+    ["version"] = 1,
+    ["picture"] = "cpg.jpg",
+    ["pictureFailed_EN"] = "campaign failure.jpg",
+    ["fullPath"] = "C:\\Users\\colin\\Saved Games\\DCS.ClosedBetaSavedGames\\Missions\\Campaigns\\en\\FA-18C - Bold Cheetah\\FA-18C - Bold Cheetah.cmp",
+    ["startStage"] = 1,
+} -- end of campaign

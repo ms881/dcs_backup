@@ -1,0 +1,104 @@
+campaign = 
+{
+    ["picture_EN"] = "logo longsml.jpg",
+    ["directory"] = "C:\\Users\\colin\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\Eastern Friendship\\Eastern Frienship Hornet Edition\\Eastern Friendship Hornet Edition\\",
+    ["startStage"] = 1,
+    ["picture"] = "logo longsml.jpg",
+    ["description"] = "VERSION 2.7A - COMPATABLE WITH DCS 2.7 AND HIGHER ONLY!\
+\
+This is a fictional, “what if”, scenario where Georgia had hurriedly joined NATO prior to the full scale Russian invasions of South Ossetia and Abkhazia.\
+\
+USAF, USMC, Canadian and French air power has begun basing at airbases around Georgia proper, and have commenced defensive air operations.  Currently, NATO air forces are cleared to operate within the territorial boundaries of Georgia, and are cleared to conduct strikes to support NATO ground forces within Georgian Airspace.",
+    ["description_EN"] = "VERSION 2.7A - COMPATABLE WITH DCS 2.7 AND HIGHER ONLY!\
+\
+This is a fictional, “what if”, scenario where Georgia had hurriedly joined NATO prior to the full scale Russian invasions of South Ossetia and Abkhazia.\
+\
+USAF, USMC, Canadian and French air power has begun basing at airbases around Georgia proper, and have commenced defensive air operations.  Currently, NATO air forces are cleared to operate within the territorial boundaries of Georgia, and are cleared to conduct strikes to support NATO ground forces within Georgian Airspace.",
+    ["pictureSuccess"] = "SUCCESS 512.jpg",
+    ["necessaryUnits"] = 
+    {
+        ["FA-18C_hornet"] = "FA-18C_hornet",
+    }, -- end of ["necessaryUnits"]
+    ["pictureFailed"] = "FAIL 512.jpg",
+    ["stages"] = 
+    {
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Eastern Frienship Hornet Mission 01 .miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\Eastern Friendship\\Eastern Frienship Hornet Edition\\Eastern Friendship Hornet Edition\\Eastern Frienship Hornet Mission 01 .miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Eastern Frienship Hornet Mission 02 .miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\Eastern Friendship\\Eastern Frienship Hornet Edition\\Eastern Friendship Hornet Edition\\Eastern Frienship Hornet Mission 02 .miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Eastern Frienship Hornet Mission 04 .miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\Eastern Friendship\\Eastern Frienship Hornet Edition\\Eastern Friendship Hornet Edition\\Eastern Frienship Hornet Mission 04 .miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Eastern Frienship Hornet Mission 03 .miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\colin\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\Eastern Friendship\\Eastern Frienship Hornet Edition\\Eastern Friendship Hornet Edition\\Eastern Frienship Hornet Mission 03 .miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+    }, -- end of ["stages"]
+    ["name"] = "Eastern Friendship Hornet Edition",
+    ["name_EN"] = "Eastern Friendship Hornet Edition",
+    ["version"] = 1,
+    ["pictureFailed_EN"] = "FAIL 512.jpg",
+    ["fullPath"] = "C:\\Users\\colin\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\Eastern Friendship\\Eastern Frienship Hornet Edition\\Eastern Friendship Hornet Edition\\Eastern Friendship Hornet.cmp",
+    ["pictureSuccess_EN"] = "SUCCESS 512.jpg",
+} -- end of campaign
